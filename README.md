@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ## 🧑🏽‍💻 Um pouquinho sobre mim:
 <div>
   <p>
-    Sou Desenvolvedor, apaixonado por tecnologia, com experiência no gerenciamento e desenvolvimento de soluções envolvendo interatividade em eventos e contato direto com o público, tenho experiências não profissionais em projetos usando Python, Javascript (Vue.JS), C#, Java e Kotlin (Android Studio) e experiência profissional em projetos que utilizaram C# para desenvolvimento em Unity, além de Javascript para desenvolvimento de páginas WEB.
+    Sou Desenvolvedor, com experiência no gerenciamento e desenvolvimento de soluções envolvendo interatividade em eventos e contato direto com o público, tenho experiências não profissionais em projetos usando Python, Javascript (React), C#, Java e Kotlin (Android Studio) e experiência profissional em projetos que utilizaram C# para desenvolvimento em Unity, C++ em projetos com Arduíno, além de Javascript para desenvolvimento de páginas WEB.
   </p>
 </div>
 
